@@ -28,3 +28,6 @@
 [submodule "3rdparty/onednn"]
 	path = 3rdparty/onednn
 	url = https://github.com/oneapi-src/oneDNN
+[submodule "3rdparty/wondershaper"]
+	path = 3rdparty/wondershaper
+	url = https://github.com/magnific0/wondershaper
